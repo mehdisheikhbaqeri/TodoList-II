@@ -1,0 +1,27 @@
+{
+  "name": "todolist-II",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "nodemon": "mehdi",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maryam-Karimiyan/ToDoList-react-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maryam-Karimiyan/ToDoList-react-mongodb/issues"
+  },
+  "homepage": "https://github.com/Maryam-Karimiyan/ToDoList-react-mongodb#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5"
+  }
+}
